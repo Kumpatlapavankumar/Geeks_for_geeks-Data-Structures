@@ -2,6 +2,7 @@ class Solution {
     // Function to check if two arrays are equal or not.
     public static boolean check(int[] arr1, int[] arr2) {
         // Your code here
+        //Donot edit this code 
         int n=arr1.length;
         int m=arr2.length;
         Arrays.sort(arr1);
