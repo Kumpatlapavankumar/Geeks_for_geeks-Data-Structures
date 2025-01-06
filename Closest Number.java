@@ -1,4 +1,4 @@
-
+//donot edit this code 
 class Solution {
     static int closestNumber(int N , int M) {
         // code here
