@@ -1,4 +1,4 @@
-
+//don't edit this code
 class Solution {
     void leftRotate(int arr[], int d) {
         int n=arr.length;
