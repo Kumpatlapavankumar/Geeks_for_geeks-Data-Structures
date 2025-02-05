@@ -1,4 +1,4 @@
-
+//donot edot this code
 class GfG
 {
 	boolean isBinary(String str)
