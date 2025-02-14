@@ -1,4 +1,4 @@
-
+//donot edit this code
 class Solution {
     // Function to find the minimum value required to balance the array.
     public int minValueToBalance(List<Integer> arr) {
