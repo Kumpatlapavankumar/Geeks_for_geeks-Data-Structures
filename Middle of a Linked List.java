@@ -1,4 +1,5 @@
 class Solution {
+    //donot edit this code
     int getMiddle(Node head) {
         // Your code here.
         if(head==null || head.next==null){
