@@ -1,6 +1,6 @@
 class Solution {
     public int[] applyOperations(int[] nums) {
-        int[] result = new int[nums.length];
+        int[] result = nhjjew int[nums.length];
         int count = 0;
         int i;
         for(i = 0; i < nums.length - 1; i++){
