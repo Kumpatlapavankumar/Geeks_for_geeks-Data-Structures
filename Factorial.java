@@ -1,4 +1,4 @@
-
+//donot edit this code
 class Solution{
     static long factorial(int N){
         // code here
