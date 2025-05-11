@@ -1,5 +1,5 @@
 // User function Template for Java
-
+//donot edit this code
 // arr[] is the array
 // n is the number of elements in array.
 class Solution {
