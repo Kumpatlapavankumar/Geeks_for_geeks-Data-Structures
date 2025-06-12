@@ -1,5 +1,6 @@
 
 //User function Template for Java
+//long power of another
 class Solution{
     static Long isPowerOfAnother(Long X, Long Y){
         // code here
