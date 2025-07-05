@@ -4,7 +4,7 @@ class Solution
     {
         // Step 1: Sort the array to group close elements together
         Arrays.sort(nums);
-
+        // sorting the array.
         // Step 2: Prepare list to collect valid triplets
         List<int[]> result = new ArrayList<>();
 
