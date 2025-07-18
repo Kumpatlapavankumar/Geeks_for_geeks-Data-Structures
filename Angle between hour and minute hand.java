@@ -1,3 +1,4 @@
+//donot edit this code
 //User function Template for Java
 class Solution {
     static int getAngle(int H , int M) {
