@@ -1,3 +1,4 @@
+//don't edit this code
 class Sol
 {
     int isPossible (String S)
