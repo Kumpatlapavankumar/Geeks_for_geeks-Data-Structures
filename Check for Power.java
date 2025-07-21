@@ -1,4 +1,4 @@
-
+//donot edit this code 
 //User function Template for Java
 //long power of another
 class Solution{
