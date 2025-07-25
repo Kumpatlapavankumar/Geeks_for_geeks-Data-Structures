@@ -1,3 +1,4 @@
+//donot edit this code
 class Solution
 {
     //Function to check if a string is Isogram or not.
