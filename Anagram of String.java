@@ -1,4 +1,4 @@
-
+566
 /*Complete the function below*/
 class GfG
 {
