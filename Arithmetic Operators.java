@@ -1,6 +1,6 @@
 // User function Template for Java
 class Solution {
-
+tyuj
     public static void operations(int x, int y) {
         // Perform addition x+y below
         int p =x+y;
