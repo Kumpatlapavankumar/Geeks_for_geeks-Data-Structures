@@ -1,5 +1,5 @@
 //User function Template for Java
-
+//donot edit this code
 class Solution {
     static int maximizeMoney(int N , int K) {
         // code here
