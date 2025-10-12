@@ -1,5 +1,5 @@
 //User function Template for Java
-
+//donot edit this code
 class Solution{
     String modify(String s){
         if(s.length()==0){
