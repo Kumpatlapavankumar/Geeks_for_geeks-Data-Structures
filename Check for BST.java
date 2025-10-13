@@ -1,4 +1,5 @@
 class Solution {
+    //donot edit this code
     // Function to check whether a Binary Tree is BST or not.
     boolean isBST(Node root) {
         int min=Integer.MIN_VALUE;
