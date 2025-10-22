@@ -9,6 +9,7 @@ class Node
 
 class Solution {
     int countLeaves(Node node) {
+        //donot edit this code
         // Your code
         if(node==null){
             return 0;
