@@ -1,4 +1,5 @@
 class Solution {
+    //donot edit this code
     public static int gcd(int a, int b) {
         // code here
         if(a==b){
