@@ -3,6 +3,7 @@ class Solution {
     public int minZeroArray(int[] nums, int[][] queries) {
         int n = nums.length;
         //length of number
+        //length of minzeroarray
         if (Arrays.stream(nums).allMatch(x -> x == 0)) return 0;
         int left = 1, right = queries.length;
         if (!canMakeZeroArray(right, nums, queries)) return -1;
