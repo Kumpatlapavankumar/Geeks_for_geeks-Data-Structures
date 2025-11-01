@@ -1,3 +1,4 @@
+//donot edit this code
 public static void printDeque(ArrayDeque<Integer> deq) {
     // code here
     for(Integer element : deq){
